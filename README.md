@@ -77,8 +77,8 @@ Recent Computer Science graduate with hands-on experience spanning **AI/ML pipel
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AliAzwar02&show_icons=true&theme=transparent&hide_border=true&title_color=06B6D4&icon_color=06B6D4&text_color=c9d1d9" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAzwar02&layout=compact&theme=transparent&hide_border=true&title_color=06B6D4&text_color=c9d1d9" />
+<img height="165em" src="https://github-stats-extended.vercel.app/api?username=AliAzwar02&show_icons=true&theme=transparent&hide_border=true&title_color=06B6D4&icon_color=06B6D4&text_color=c9d1d9" />
+<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AliAzwar02&layout=compact&theme=transparent&hide_border=true&title_color=06B6D4&text_color=c9d1d9" />
 </div>
 
 <div align="center">
