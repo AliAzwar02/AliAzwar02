@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=220&section=header&text=Ali%20Azwar%20Naqvi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Graduate%20%7C%20Software%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://www.linkedin.com/in/ali-azwar-naqvi">
+<a href="https://www.linkedin.com/in/ali-azwar-naqvi-46a028259/">
   <img src="https://img.shields.io/badge/LinkedIn-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:naqviazwar@gmail.com">
