@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=220&section=header&text=Ali%20Azwar%20Naqvi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=220&section=header&text=Ali%20Azwar%20Naqvi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Graduate%20%7C%20Software%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/ali-azwar-naqvi">
   <img src="https://img.shields.io/badge/LinkedIn-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -13,13 +13,13 @@
 
 ### 👋 About Me
 
-Final-year Computer Science student (graduating 2026) with hands-on experience across **AI/ML pipelines, full-stack web development, and formal software testing**. I've shipped production-level ML models on 275K+ records and built full-stack apps with role-based access control. Adaptable across domains — always chasing measurable impact over busywork.
+Recent Computer Science graduate with hands-on experience spanning **AI/ML pipelines, workflow automation, full-stack web development, and software quality assurance**. I've shipped production-level ML models, built full-stack apps with role-based access control, and architected automated RAG and AI-agent pipelines for document and inventory intelligence. Adaptable across domains — always looking for any CS role where problem-solving and measurable impact matter.
 
-- 🔭 Currently building **HillSafe AI** — a real-time landslide early-warning platform (Final Year Project)
-- 🌱 Deepening my skills in **LSTM forecasting, spatial ML, and geospatial data (PostGIS)**
+- 🔭 Currently building **AI-Powered Inventory Management Chatbots** and **Automated RAG Pipelines**
+- 🌱 Deepening my skills in **GenAI, LLMs (Groq, Gemini), Vector Databases, and AI Agents (n8n)**
 - 🧪 Big believer in formal test design — Decision Table, Control Flow, and Basic Path Testing
 - 📍 Based in Lahore, Pakistan
-- 💬 Ask me about ML pipelines, imbalanced classification (SMOTE-Tomek), or Django/Flutter builds
+- 💬 Ask me about AI Agents, RAG pipelines, imbalanced classification, or Next.js/Django builds
 
 ---
 
@@ -32,10 +32,9 @@ Final-year Computer Science student (graduating 2026) with hands-on experience a
 <img src="https://img.shields.io/badge/JavaScript-06B6D4?style=flat-square&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-06B6D4?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML%2FCSS-06B6D4?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/ASP.NET-06B6D4?style=flat-square&logo=dotnet&logoColor=white" />
 </p>
 
-**AI / ML**
+**AI & Machine Learning**
 <p>
 <img src="https://img.shields.io/badge/Scikit--learn-06B6D4?style=flat-square&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-06B6D4?style=flat-square&logo=tensorflow&logoColor=white" />
@@ -44,12 +43,24 @@ Final-year Computer Science student (graduating 2026) with hands-on experience a
 <img src="https://img.shields.io/badge/NumPy-06B6D4?style=flat-square&logo=numpy&logoColor=white" />
 </p>
 
-**Web, Mobile & Data**
+**Automation & GenAI**
 <p>
+<img src="https://img.shields.io/badge/n8n-06B6D4?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Gemini%20API-06B6D4?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq-06B6D4?style=flat-square&logo=groq&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG%20Pipelines-06B6D4?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Vector%20Databases-06B6D4?style=flat-square&logo=databricks&logoColor=white" />
+</p>
+
+**Web, Mobile & Backend**
+<p>
+<img src="https://img.shields.io/badge/Next.js-06B6D4?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-06B6D4?style=flat-square&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-06B6D4?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET-06B6D4?style=flat-square&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/Flutter-06B6D4?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-06B6D4?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL%2FPostGIS-06B6D4?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-06B6D4?style=flat-square&logo=plotly&logoColor=white" />
 </p>
 
 **Cloud & Tools**
@@ -58,7 +69,7 @@ Final-year Computer Science student (graduating 2026) with hands-on experience a
 <img src="https://img.shields.io/badge/Git%2FGitHub-06B6D4?style=flat-square&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-06B6D4?style=flat-square&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Colab-06B6D4?style=flat-square&logo=googlecolab&logoColor=white" />
-<img src="https://img.shields.io/badge/Blender-06B6D4?style=flat-square&logo=blender&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-06B6D4?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
@@ -80,27 +91,31 @@ Final-year Computer Science student (graduating 2026) with hands-on experience a
 
 **[HillSafe AI — Real-Time Landslide Alert System](https://github.com/AliAzwar02)** *(Final Year Project)*
 `Python` `Django` `Random Forest` `LSTM` `Flutter` `PostgreSQL/PostGIS` `AWS`
-End-to-end disaster early-warning platform ingesting satellite imagery, rainfall data, and elevation models. Dual-model ensemble (Random Forest + LSTM) producing a unified risk score every 2 hours, with a role-based Flutter app for residents and authorities.
+Architected an end-to-end disaster early-warning platform replacing hardware sensors with a fully software-driven ML pipeline ingesting satellite imagery, rainfall records, and digital elevation models. Delivered a dual-model ensemble (Random Forest + LSTM) with a role-based Flutter app for residents and authorities.
+
+**[Candle Brand E-Commerce Platform](https://github.com/AliAzwar02)**
+`Next.js` `MongoDB` `Node.js`
+Designed and deployed a custom e-commerce web application for a boutique candle brand. Implemented dynamic product galleries, modern frontend aesthetics, and secure admin tools to streamline online sales.
+
+**[Automated RAG Pipeline for Document Intelligence](https://github.com/AliAzwar02)**
+`n8n` `Google Gemini API` `Vector Database` `Google Drive`
+Architected an automated Retrieval-Augmented Generation (RAG) pipeline using n8n to extract, embed, and analyze unstructured data directly from Google Drive. Integrated Gemini API for context-aware queries, reducing manual data-extraction time.
+
+**[AI-Powered Inventory Management Chatbot](https://github.com/AliAzwar02)**
+`n8n` `Groq LLM` `Google Sheets API` `Conversational AI Agent`
+Built a conversational AI Agent in n8n that responds to real-time chat queries via a Groq-hosted LLM. Connected to Google Sheets for live inventory lookups, maintaining conversational context across multi-turn queries.
 
 **[Heart Attack Risk Classifier — Youth vs. Adults](https://github.com/AliAzwar02)**
 `Python` `Scikit-learn` `Pandas` `Seaborn` `SMOTE-Tomek`
-Processed 275,000+ clinical records; applied SMOTE-Tomek to fix class imbalance, lifting minority-class F1 from 0.51 → 0.74. Identified hypertension, smoking, and HbA1c as top predictive features.
+Processed clinical records end-to-end, trained SVM, Naïve Bayes, and KNN classifiers with SMOTE-Tomek balancing. Naïve Bayes achieved the best precision-recall trade-off, improving minority-class F1 from 0.51 → 0.74.
 
 **[House Price Sales Prediction (Regression Suite)](https://github.com/AliAzwar02)**
 `Python` `Scikit-learn` `XGBoost` `Matplotlib`
-Engineered 12 domain-informed features, lifting R² from 0.71 → 0.87. Benchmarked multiple regressors; resolved heteroscedasticity via log-transform, cutting prediction variance by 22%.
+Engineered 12 domain-informed features, lifting R² from 0.71 → 0.87. Benchmarked Linear Regression, Ridge, Lasso, and Gradient Boosting; selected Gradient Boosting for lowest RMSE, resolving heteroscedasticity via log-transform.
 
-**[FIFA Player Contract Duration Analysis](https://github.com/AliAzwar02)**
-`Python` `Pandas` `Scikit-learn` `SMOTE-Tomek`
-Balanced a 6-class contract-duration problem with SMOTE-Tomek and reduced the feature space from 89 → 14 via correlation analysis with no accuracy loss.
-
-**[Lexicon AI](https://github.com/AliAzwar02/lexicon-ai)**
-`Next.js` `n8n` `Supabase` `JavaScript`
-An AI-powered document analysis platform using RAG (Retrieval-Augmented Generation). Upload PDFs, ask questions, and get instant answers.
-
-**[Glow by Mashal](https://github.com/AliAzwar02/Glow-by-Mashal)**
-`JavaScript`
-A web application project — private repository.
+**[Job Portal Web Application](https://github.com/AliAzwar02)**
+`HTML` `CSS` `JavaScript` `ASP.NET` `SQL Server`
+Architected a full-stack job board with role-based access (applicant/employer/admin), supporting CRUD operations across listings and accounts. Implemented client-side validation and server-side sanitisation against SQL injection.
 
 ---
 
